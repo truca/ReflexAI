@@ -17,6 +17,9 @@
           "appId": "d3tre8ngd8t3df",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "reflexaif4626feb": {}
       }
     }
   }
